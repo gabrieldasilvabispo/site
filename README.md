@@ -1,2 +1,2 @@
 # site
-Repositorio de exemplo que hospeda um site real
+Repositorio de exemplo que hospeda um site real.
